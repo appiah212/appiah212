@@ -1,4 +1,4 @@
-<h1>Hi, I'm Philip! <br/><a href="https://www.linkedin.com/in/appiah-philip-275bb251/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Philip! <br/><a href="https://www.linkedin.com/in/appiah-philip-275bb251/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/appiah-philip-275bb251/">VoIP Telephony</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -17,6 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>👨‍💻 VoIP Projects:</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -33,6 +34,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[credly]: https://www.credly.com/users/philip-appiah.05835d59/badges
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
