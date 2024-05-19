@@ -1,4 +1,4 @@
-<h1>Hi, I'm Philip! <br/><a href="https://www.linkedin.com/in/appiah-philip-275bb251/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/appiah-philip-275bb251/">VoIP Telephony</a></h1>
+<h1>Hi, I'm Philip! <br/><a href="https://www.linkedin.com/in/appiah-philip-275bb251/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/appiah-philip-275bb251/">VoIP Systems</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
